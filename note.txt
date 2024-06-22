@@ -1,0 +1,42 @@
+const faqs = [
+  {
+    question: "How long does a typical construction project take?",
+    answer: "The duration of a construction project varies depending on factors such as the size, complexity, and scope of work involved. We will provide you with an estimated timeline during the consultation phase based on your project requirements.",
+  },
+  {
+    question: "What payment methods do you accept?",
+    answer: "We accept various payment methods including cash, check, credit card, and bank transfer. Our team will work with you to determine the most convenient payment option for your project.",
+  },
+  {
+    question: "Can I visit one of your ongoing construction sites?",
+    answer: "We prioritize the safety and security of our construction sites, but we may be able to arrange a visit depending on the project's stage and site conditions. Please contact our office to inquire about visiting a construction site.",
+  },
+  {
+    question: "Do you offer warranties on your construction work?",
+    answer: "Yes, we stand behind the quality of our workmanship and offer warranties on our construction projects. Our warranties typically cover materials and workmanship for a specified period after project completion.",
+  },
+  {
+    question: "How do you handle changes or additions to the project scope?",
+    answer: "We understand that project scopes may evolve over time. Any changes or additions to the project scope will be carefully reviewed and discussed with you to ensure transparency and agreement on adjustments to the timeline and budget.",
+  },
+  {
+    question: "Are your construction practices environmentally friendly?",
+    answer: "Yes, we are committed to implementing sustainable construction practices whenever possible. This includes recycling materials, reducing energy consumption, and implementing green building techniques to minimize our environmental footprint.",
+  },
+  {
+    question: "Do you have experience working on projects similar to mine?",
+    answer: "Yes, our team has extensive experience working on a variety of construction projects across different sectors including residential, commercial, and industrial. We will leverage our expertise to deliver a successful outcome for your project.",
+  },
+  {
+    question: "How do you handle unexpected challenges during construction?",
+    answer: "Our team is equipped to handle unexpected challenges that may arise during construction. We will communicate openly with you and take proactive measures to address any issues while minimizing disruptions to the project timeline.",
+  },
+  {
+    question: "Do you provide post-construction cleanup services?",
+    answer: "Yes, we offer post-construction cleanup services to ensure that your site is left clean and orderly upon project completion. Our team will take care of removing debris, leftover materials, and any other construction-related mess.",
+  },
+  {
+    question: "Can you provide references or examples of past projects?",
+    answer: "Certainly! We can provide you with references from past clients and examples of completed projects similar to yours. Feel free to reach out to us for more information.",
+  },
+];
